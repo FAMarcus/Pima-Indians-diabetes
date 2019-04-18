@@ -1,4 +1,4 @@
-# Pima Indians diabetes
+efjiefjef# Pima Indians diabetes
 Data science project.
 
 The goal of this project is to make a basic tutorial on data analysis, to detect and manage missing values and train a model to draw some conclusions about the data. 
