@@ -12,6 +12,7 @@ O arquivo está escrito em inglês. Farei uma versão em português.
 
 [2]: Jason Brownlee, *How to Handle Missing Data with Python*, https://machinelearningmastery.com/handle-missing-data-python/
 
+[3]: Kaggle, [https://www.kaggle.com/uciml/pima-indians-diabetes-database]
 
 # Projetos:
 
